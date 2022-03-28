@@ -1,0 +1,5 @@
+package Constants
+
+object Constants {
+
+}
